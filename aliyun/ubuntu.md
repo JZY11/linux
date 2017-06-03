@@ -18,8 +18,8 @@
 3. Install Tomcat
 ```shell
 # wget https://mirrors.tuna.tsinghua.edu.cn/apache/tomcat/tomcat-7/v7.0.78/bin/apache-tomcat-7.0.78.tar.gz
-# tar xvf apache-tomcat-7.0.77.tar.gz
-# cd apache-tomcat-7.0.77/bin
+# tar xvf apache-tomcat-7.0.78.tar.gz
+# cd apache-tomcat-7.0.78/bin
 # ./start.sh
 ```
 
@@ -71,3 +71,6 @@ mysql -u root -p
 show variables like 'char%';
 show variables like 'coll%';
 ```
+
+DNS - Domain Name Server
+bing.com -> 204.79.197.200
