@@ -40,7 +40,8 @@
 4. Install MySQL
 
 ```shell
-sudo apt-get update && sudo apt-get upgrade
+sudo apt-get update
+sudo apt-get upgrade
 sudo apt-get install mysql-server
 ```
 
