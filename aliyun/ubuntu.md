@@ -17,7 +17,7 @@
 
 3. Install Tomcat
 ```shell
-# wget https://mirrors.tuna.tsinghua.edu.cn/apache/tomcat/tomcat-7/v7.0.77/bin/apache-tomcat-7.0.77.tar.gz
+# wget https://mirrors.tuna.tsinghua.edu.cn/apache/tomcat/tomcat-7/v7.0.78/bin/apache-tomcat-7.0.78.tar.gz
 # tar xvf apache-tomcat-7.0.77.tar.gz
 # cd apache-tomcat-7.0.77/bin
 # ./start.sh
