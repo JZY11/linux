@@ -24,7 +24,7 @@
 ```
 
 ```shell
-# nano apache-tomcat-7.9.77/conf/server.xml
+# nano apache-tomcat-7.9.78/conf/server.xml
 ```
 
 ```text
@@ -32,7 +32,7 @@
 ```
 
 ```shell
-# cd apache-tomcat-7.0.77/bin
+# cd apache-tomcat-7.0.78/bin
 # ./shutdown.sh
 # ./start.sh
 ```
